@@ -4,7 +4,6 @@ import numpy as np
 from rsml import RSMLParser
 from glob import glob
 import os
-import cv2
 
 rsml = glob("./..*.rsml") #give path to RSML dirc.
 i= len(rsml)
