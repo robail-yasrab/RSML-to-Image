@@ -17,3 +17,7 @@ Set Input and Output directory paths in the script and run the following command
 ```
 python RSML_to_annotations.py
 ```
+## Genarte Final GT
+To generate the final GT to train RootNav 2.0. Use recently generated colored images to create the final trainable GT. The code is available at the following link: 
+
+[Final GT](https://github.com/robail-yasrab/RGB_GT_Encoding)
